@@ -1,5 +1,4 @@
-﻿using IPservice_indigosoft.Data;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.TagHelpers;
 using System.Net;
 using System.Text.RegularExpressions;

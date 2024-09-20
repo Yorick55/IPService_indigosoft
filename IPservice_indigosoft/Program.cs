@@ -1,6 +1,5 @@
 using IPservice_indigosoft;
 using IPservice_indigosoft.Data;
-using Microsoft.AspNetCore.Connections;
 
 var builder = WebApplication.CreateBuilder(args);
 
